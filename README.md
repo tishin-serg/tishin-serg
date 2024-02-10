@@ -22,3 +22,11 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+- :telescope: I’m working as a Java Backend Developer and contributing to backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I develop my pet-projects, solve problems on Leetcode, Codewars and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/tissergg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tissergg)
